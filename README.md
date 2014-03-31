@@ -9,9 +9,7 @@ Based on [this proyect](https://github.com/akoscz/YouTubePlaylist).
 You need and [API-KEY](https://developers.google.com/youtube/android/player/register) from google if you want to use YouTube Android Player API to watch the videos.
 
 You need the awesome library CardsLib by Gabriele Mariotti.
-
 You can download from [this page](https://github.com/gabrielemariotti/cardslib)
-
 * **Sample** application: The demo is a showcase of the functionality of the library.
 
 	 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo)
