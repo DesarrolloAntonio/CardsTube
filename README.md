@@ -1,12 +1,12 @@
 CardsTube
 =========
-![Logo](capture.png)
+![Logo](YoutubeInCardLibs/capture.png)
 
 A youtube playlist inside CardsLib.
 
-You need the awesome library CardsLib by Gabriele Mariotti.
-
 Based on [this proyect](https://github.com/akoscz/YouTubePlaylist).
+
+You need the awesome library CardsLib by Gabriele Mariotti.
 
 You can download from [this page](https://github.com/gabrielemariotti/cardslib)
 
