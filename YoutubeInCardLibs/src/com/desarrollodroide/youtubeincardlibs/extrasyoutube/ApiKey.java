@@ -14,5 +14,5 @@ package com.desarrollodroide.youtubeincardlibs.extrasyoutube;
  * limitations under the License.
  */
 public class ApiKey {
-    public static final String YOUTUBE_API_KEY = "AIzaSyAAmK02yfljD-ICgNB55da4VdtLLF2SkGs";
+    public static final String YOUTUBE_API_KEY = "YOUR_API_KEY";
 }
