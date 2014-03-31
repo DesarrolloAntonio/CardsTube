@@ -6,6 +6,8 @@ A youtube playlist inside CardsLib.
 
 Based on [this proyect](https://github.com/akoscz/YouTubePlaylist).
 
+You need and [API-KEY](https://developers.google.com/youtube/android/player/register) from google if you want to use YouTube Android Player API to watch the videos.
+
 You need the awesome library CardsLib by Gabriele Mariotti.
 
 You can download from [this page](https://github.com/gabrielemariotti/cardslib)
